@@ -87,3 +87,6 @@ article p{
     justify-content: center;  
     align-items: center;  
 }
+.caixa-modal{
+    display: none;
+}
